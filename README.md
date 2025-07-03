@@ -2,9 +2,9 @@
 
 Je suis un étudiant passionné d'informatique. Ce qui me motive ? Plonger au cœur des systèmes complexes pour vraiment comprendre comment ils fonctionnent, de l'IA jusqu'aux détails d'un OS.
 
-### 🌱 Mon approche du code
+### 🌱 Mon approche du developpement
 
-Pour moi, coder, ce n'est pas juste faire en sorte que "ça marche". J'aime aller au fond des choses pour maîtriser les concepts.
+Pour moi, developper, ce n'est pas juste faire en sorte que "ça marche". J'aime aller au fond des choses pour maîtriser les concepts et fournir un produit robuste et de qualité.
 
 C'est pour ça que je ne lance jamais un projet sans mes **Dev Containers**. Ça me garantit un environnement de travail propre, isolé et 100% reproductible.
 
